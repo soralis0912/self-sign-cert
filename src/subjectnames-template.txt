@@ -1,1 +1,2 @@
 subjectAltName = DNS:${HOST}, IP:${IP}
+basicConstraints=CA:TRUE
